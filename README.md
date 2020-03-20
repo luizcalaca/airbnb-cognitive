@@ -16,6 +16,7 @@ Há o símbolo monetário (dólar $) que também precisou ser retirado de vário
 # c. Qual foi o critério utilizado na seleção do modelo final?
 
 Foi escolhido o RandomForest por uma decisão matemática no contexto Ensemble na melhoria do contexto das redes neurais.
+De fato, podemos realizar o processo de Cross Validation e realizar uma parte empírica, no entanto, fiz uma decisão matemática para o problema dado.
 
 
 # d. Qual foi o critério utilizado para validação do modelo? Por que escolheu utilizar este método?
