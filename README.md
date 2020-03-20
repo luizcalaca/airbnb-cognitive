@@ -4,7 +4,7 @@
 
 Na visão geral inicial do dataset, é perceptível que para o problema da predição do valor há variáveis que não farão sentido algum e já podem ser eliminadas desde o início.
 
-É verificado, os campos nulos, que, em porcentagem alta, podemos retirá-los, e assim pode ser visto no código.
+É verificado, os campos nulos, que, em porcentagem alta, serão "sujeiras" para o nosso modelo e, assim, podemos retirá-los, como pode ser visto no código notebook.
 
 
 
