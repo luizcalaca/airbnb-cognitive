@@ -12,6 +12,8 @@ Há o símbolo monetário (dólar $) que também precisou ser retirado de vário
 
 # b. Como foi definida a função de custo utilizada?
 
+Foi utilizada a MSE (Mean Squared Error) como função de custo. Como sabe-se o intuito da função de custo é minizar o erro entre a predição e o que é realmente o valor esperado.
+
 
 # c. Qual foi o critério utilizado na seleção do modelo final?
 
