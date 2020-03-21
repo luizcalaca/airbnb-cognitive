@@ -33,3 +33,5 @@ De fato, podemos realizar o processo de Cross Validation e realizar uma parte em
 
 Inicialmente, o modelo será bom se houver uma boa escolha das variáveis de um dataset de qualidade. Um bom modelo depende, crucialmente, dessas duas variáveis. Quando há o overfitting, percebemos que um model tornou-se complexo demais para se adequar ao dados. Assim, matematicamente, um bom modelo será oriundo de um bom Dataset e uma boa Engenharia de features a fim de criar um modelo equilibrado e que represente o problema.
 
+Também, ao adentrar dentro da estatística, precisamos observar assuntos como os testes de hipótese e os intervalos de confiança, a fim de definir uma faixa matemática de confiabilidade de nosso modelo. Lembrar, sempre, que estamos em um contexto heurístico e não determínistico.
+
