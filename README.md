@@ -30,3 +30,5 @@ De fato, podemos realizar o processo de Cross Validation e realizar uma parte em
 
 # e. Quais evidências você possui de que seu modelo é suficientemente bom?
 
+Inicialmente, o modelo será bom se houver uma boa escolha das variáveis de um dataset de qualidade. Um bom modelo depende, crucialmente, dessas duas variáveis. Quando há o overfitting, percebemos que o complexo tornou-se complexo demais para se adequar ao dados. Assim, matematicamente, um bom modelo será oriundo de um bom Dataset e uma boa Engenharia de features.
+
