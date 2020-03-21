@@ -16,7 +16,7 @@ Foi utilizada a MSE (Mean Squared Error) como função de custo. Como sabe-se o 
 
 MSE=1N∑i=1n(yi−(mxi+b))2
 
-Com o algoritmo Random Forest, ela tem uma minimização do erro em suas decisions trees.
+Com o algoritmo Random Forest, ela tem uma minimização do erro em suas decisions trees, a fim de melhorar a precisão do nosso modelo.
 
 
 # c. Qual foi o critério utilizado na seleção do modelo final?
@@ -27,6 +27,7 @@ De fato, podemos realizar o processo de Cross Validation e realizar uma parte em
 
 # d. Qual foi o critério utilizado para validação do modelo? Por que escolheu utilizar este método?
 
+De fato, podemos realizar o processo de Cross Validation e realizar uma parte empírica, no entanto, fiz uma decisão matemática para o problema dado, utilizando o RandomForest e anteriormente algumas técnicas para a limpeza e processamento do dataset.
 
 # e. Quais evidências você possui de que seu modelo é suficientemente bom?
 
