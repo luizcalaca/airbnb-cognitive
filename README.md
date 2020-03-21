@@ -14,6 +14,10 @@ Há o símbolo monetário (dólar $) que também precisou ser retirado de vário
 
 Foi utilizada a MSE (Mean Squared Error) como função de custo. Como sabe-se o intuito da função de custo é minizar o erro entre a predição e o que é realmente o valor esperado.
 
+MSE=1N∑i=1n(yi−(mxi+b))2
+
+Com o algoritmo Random Forest, ela tem uma minimização do erro em suas decisios trees.
+
 
 # c. Qual foi o critério utilizado na seleção do modelo final?
 
